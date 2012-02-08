@@ -1,5 +1,5 @@
-#ifndef ANDROID_HARDWARE_Moto_CAMERA_WRAPPER_H
-#define ANDROID_HARDWARE_Moto_CAMERA_WRAPPER_H
+#ifndef ANDROID_HARDWARE_MOTO_CAMERA_WRAPPER_H
+#define ANDROID_HARDWARE_MOTO_CAMERA_WRAPPER_H
 
 #include <utils/threads.h>
 #include <ui/android_native_buffer.h>
